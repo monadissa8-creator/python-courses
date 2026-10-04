@@ -1,0 +1,16 @@
+#print my daily routene 
+print("i wake up in the morning at 7 o'clock")
+print("i brush my teeth ")
+print("i eat my breakfast ")
+print("i go to school ")
+#print how i spend my school time
+print("i learn my subjects Maths ,English,...")
+print("i eat my school lunch ")
+print("i spend my leasure time in the gym ")
+print("i do sports ")
+print("i learn more subjects")
+print("i go home after the school is over")
+print("after go im home i wash my boddy  ")
+print("sometimes i watch vidieos or do homework")
+print("i also talk to my family in Sri Lanka")
+print("after my mother comes home we have our diner")
